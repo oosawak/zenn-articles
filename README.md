@@ -6,3 +6,5 @@ Zenn（@oosawak）へのGitHub連携用リポジトリです。
 - `images/` — 記事で使う画像。Zennの記法（`/images/ファイル名`）で参照しています（元画像はWebP、Zenn向けにJPEGへ変換済み）。
 
 このリポジトリをZennの「GitHub連携」に設定すると、`main` ブランチへのpushがそのままZennへデプロイされます。
+
+<!-- deploy trigger 2026-10-29 -->
