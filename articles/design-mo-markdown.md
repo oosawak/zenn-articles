@@ -3,7 +3,7 @@ title: "DESIGN.mdという入口 ― デザイン変更を「会話」にする"
 emoji: "📐"
 type: "tech"
 topics: ["markdown", "design", "ai", "github", "cms"]
-published: true
+published: false
 ---
 ![色見本と文字組みの指定が書かれた紙と、その端から立ち上がるWebページのイラスト](/images/design-md.jpg)
 
