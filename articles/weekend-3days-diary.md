@@ -3,7 +3,7 @@ title: "週末3日間の制作日誌 ― 「公開する」の一言で、記事
 emoji: "📔"
 type: "tech"
 topics: ["ai", "github", "markdown", "個人開発"]
-published: true
+published: false
 ---
 ![スマートフォンと吹き出し、扇状に広がるサイトのページ、小さなカレンダーのイラスト](/images/weekend-diary.jpg)
 

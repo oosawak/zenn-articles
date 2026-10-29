@@ -3,7 +3,7 @@ title: "似ているようで、目的が違う ― VuePressと、私のMarkdown
 emoji: "🔍"
 type: "tech"
 topics: ["vuepress", "markdown", "github", "静的サイトジェネレータ"]
-published: true
+published: false
 ---
 ![分かれ道の先、左に歯車と設計図のある開発者の作業台、右に紙ファイルのフォルダと小さな芽のイラスト](/images/vuepress-hikaku.jpg)
 

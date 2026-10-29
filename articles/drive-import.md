@@ -3,7 +3,7 @@ title: "書く場所は、GitHubじゃなくてもよくなった ― Driveに�
 emoji: "📥"
 type: "tech"
 topics: ["markdown", "googledrive", "appsscript", "github", "cms"]
-published: true
+published: false
 ---
 ![Google Driveのフォルダに入ったMarkdownの紙が、小さな橋を渡ってWebページになっていくイラスト](/images/drive-import.jpg)
 
