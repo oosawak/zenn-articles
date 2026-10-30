@@ -3,7 +3,7 @@ title: "WordPressでも、EmDashでもない ― Muse × GitHub × Markdown CMS 
 emoji: "🧭"
 type: "tech"
 topics: ["markdown", "github", "ai", "claude", "cms"]
-published: false
+published: true
 ---
 ![「どのCMSか、ではなく『どこで動かすか』」と題したスライドの表紙](/images/doko-slide-01.jpg)
 

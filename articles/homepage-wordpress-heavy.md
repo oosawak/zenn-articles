@@ -3,7 +3,7 @@ title: "ホームページに、WordPressは重すぎるのではないか"
 emoji: "🏠"
 type: "tech"
 topics: ["wordpress", "markdown", "github", "cms"]
-published: false
+published: true
 ---
 ![舞う1枚の紙と、その下の複雑な機械のイラスト](/images/wordpress-heavy.jpg)
 

@@ -3,7 +3,7 @@ title: "見た目は、言葉で変えられます"
 emoji: "🎨"
 type: "tech"
 topics: ["markdown", "ai", "design", "github"]
-published: false
+published: true
 ---
 ![見本のページと吹き出し、色のパレットと調整つまみ、塗り替えられていくWebページのイラスト](/images/design-words.jpg)
 
