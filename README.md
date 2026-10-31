@@ -7,4 +7,4 @@ Zenn（@oosawak）へのGitHub連携用リポジトリです。
 
 このリポジトリをZennの「GitHub連携」に設定すると、`main` ブランチへのpushがそのままZennへデプロイされます。
 
-<!-- deploy trigger 2026-10-29 -->
+<!-- deploy trigger 2026-10-31 -->
